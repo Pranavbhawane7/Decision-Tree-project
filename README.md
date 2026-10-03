@@ -1,6 +1,5 @@
 ## Drug Classification using Decision Trees
 
-##Project Overview  
 This project applies Decision Tree Classification to predict drug types for patients based on medical attributes. It demonstrates end-to-end data preprocessing, model building, and interpretation using Python and scikit-learn. The model is designed to be interpretable, allowing clear extraction of decision rules for each drug class.
 
 ----
