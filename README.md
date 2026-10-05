@@ -24,6 +24,13 @@ Target variable: Drug type (Drug A, Drug B, Drug C, Drug X, Drug Y)
 
 ----
 
+## Observations
+Decision Tree
+
+<img width="962" height="676" alt="image" src="https://github.com/user-attachments/assets/d32c0e07-453c-40e9-95cb-825f85c26da1" />
+
+---
+
 ## Tech Stack
 
 Python (data analysis & modeling)
